@@ -94,7 +94,7 @@ export const DATA = {
       href: "https://brihatinfotech.com/",
       location: "Remote",
       title: "FullStack Developer Intern",
-      logoUrl: "/Bi.jpg",
+      logoUrl: "/brihat.jpg",
       start: "Aug 2024",
       end: "Sep 2024",
       description:
