@@ -240,7 +240,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/expressTs.jpg",
+      image: "/expresspackage.jpg",
       video: "",
     },
     {
